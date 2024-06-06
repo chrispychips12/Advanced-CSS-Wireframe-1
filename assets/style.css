@@ -1,3 +1,14 @@
-:root{
-    
+:root {
+--h1: #ffff; 
+--bg: black;
+
 }
+
+h1 {
+    display: inline-block;
+    position: center;
+    color: var(--h1);
+}
+
+
+
